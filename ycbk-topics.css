@@ -23,24 +23,15 @@
   background: #0a5d91;
   color: #fff;
   text-align: center;
-  padding: 16px 24px;
+  padding: 12px 24px;
   border-bottom: 3px solid #f5a623;
-}
-
-#ycbk-topics-root .ycbk-topics__title {
-  font-size: 24px;
-  font-weight: 700;
-  margin: 0 0 4px;
-  text-align: center;
-  color: #fff;
-  line-height: 1.25;
 }
 
 #ycbk-topics-root .ycbk-topics__subtitle {
   font-size: 14px;
-  max-width: 560px;
+  max-width: 640px;
   margin: 0 auto;
-  opacity: 0.92;
+  opacity: 0.95;
   line-height: 1.45;
   text-align: center;
   color: #fff;
@@ -254,8 +245,7 @@
 
 /* --- Responsive --- */
 @media (max-width: 480px) {
-  #ycbk-topics-root .ycbk-topics__hero { padding: 12px 16px; }
-  #ycbk-topics-root .ycbk-topics__title { font-size: 20px; }
+  #ycbk-topics-root .ycbk-topics__hero { padding: 10px 16px; }
   .ycbk-topics__filter-wrap { padding: 16px 16px 0; }
   .ycbk-topics__list { padding: 8px 16px 40px; }
   .ycbk-topics__topic-header { padding: 10px 12px; }

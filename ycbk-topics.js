@@ -48,8 +48,7 @@
   function renderHero() {
     return `
       <section class="ycbk-topics__hero">
-        <h1 class="ycbk-topics__title">100 Podcast Topics</h1>
-        <p class="ycbk-topics__subtitle">Browse recurring themes from over 620 episodes of the Your College-Bound Kid podcast. Each topic links directly to the relevant episodes.</p>
+        <p class="ycbk-topics__subtitle">Browse recurring themes from all of Your College-Bound Kid podcasts. Each topic links directly to the relevant episodes.</p>
       </section>
     `;
   }
